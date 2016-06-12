@@ -1,6 +1,9 @@
 # Implementing-the-Process-Scheduling-Simulator
 The Project was implemented using	C/C++	in Linux	environment. 
+
+
 Phase 1:
+
    • FCFS	(First Come First Serve)	
    • SJF	
    • Priority	Scheduling	
@@ -8,6 +11,8 @@ Phase 1:
    • Completely	Fair Scheduler	(CFS)
 
 Phase 2:
+
+
 We had to code an application which implements the following search algorithm to search a directory D for some text:   
 • Get total number of sub directories in D  
 • Get the contents of the directory using readdir  
